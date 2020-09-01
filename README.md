@@ -24,8 +24,8 @@ Library-better-algorithm
 网站|阿里云在线编程|Alibaba|[here](https://developer.aliyun.com/coding)
 网站|Leetcode|领扣网络|[here](https://leetcode-cn.com/)
 
-文例：
-
+文例
+-
 + ISSUE.md ---------问题与引用地址
 
 
