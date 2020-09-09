@@ -7,6 +7,7 @@ Library-better-algorithm
 范畴
 -
 + 算法
++ 多线程
 + 优化
 
 语言支持 
@@ -15,7 +16,7 @@ Library-better-algorithm
 
 摘要 
 -
-本项目会总结作者遇到的算法题,供学习参考<br/>
+本项目会总结作者遇到的题型,供学习参考<br/>
 
 参考 
 -
